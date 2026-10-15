@@ -197,10 +197,15 @@ Men's Street Footwear alone accounts for 39% of total revenue. While this catego
 ### E. Channel Performance & The Online Margin Compression
 
 Filtering the dashboard across sales channel slicers reveals a key trade-off between volume growth and margin retention:
+- In-Store Channel View  
+- Online Channel View  
+- Outlet Channel View 
 
-| In-Store Channel View | Online Channel View | Outlet Channel View |
-|---|---|---|
-| ![`In-Store View`](/adidas_dashboard_instore.png) | ![`Online View`](/adidas_dashboard_online.png) | ![`Outlet View`](/adidas_dashboard_outlet.png) |
+![`In-Store View`](/adidas_dashboard_instore.png) 
+
+![`Online View`](/adidas_dashboard_online.png) 
+
+![`Outlet View`](/adidas_dashboard_outlet.png) 
 
 | Performance Metric | In-Store View | Outlet View | Online View |
 |---|---:|---:|---:|
