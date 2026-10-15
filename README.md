@@ -126,20 +126,12 @@ The analytical methodology followed a 3-stage visual and quantitative workflow:
 | Phase | Focus & Activities |
 |---|---|
 | **Phase 1: Analytical Modeling & Metric Setup** | • created  `ANALYSIS` worksheet to separate raw data from calculations.<br>• calculated weighted Profit Margin formulas (`SUM(Operating Profit) / SUM(Total Sales)`) to avoid mathematical averaging bias.<br>• Created Year-over-Year (YoY) comparison logic for Sales, Profit, Units, and Margins between 2020 and 2021. |
-| ↓ | **Followed by Phase 2: Dimensional & Segment Breakdown** |
-| **Phase 2: Segment & Trend Analysis** | • Aggregated sales distribution across US regions to evaluate regional revenue contribution.<br>• Analyzed transaction order frequency across retail partners to assess partner activity.<br>• Evaluated product category  to measure revenue concentration risks.<br>• Tracked monthly sales trends across 2020 and 2021 to identify seasonal patterns and baseline operational gaps. |
-| ↓ | **Followed by Phase 3: Dashboard Architecture & UI Build** |
-| **Phase 3: Interactive Dashboard Build** | • Designed a 4-card executive KPI header with YoY growth indicators.<br>• Integrated channel Slicers (In-store, Online, Outlet) connected dynamically across all PivotTables.<br>• Formatted US map visuals, bar charts, donut charts, and trend lines using an Adidas navy blue visual theme. |
+| ↓ | **Followed by Phase 2: Analysis** |
+| **Phase 2:  Analysis** | • Aggregated sales distribution across US regions to evaluate regional revenue contribution.<br>• Analyzed transaction order frequency across retail partners to assess partner activity.<br>• Evaluated product category  to measure revenue concentration risks.<br>• Tracked monthly sales trends across 2020 and 2021 to identify seasonal patterns and baseline operational gaps. |
+| ↓ | **Followed by Phase 3: Results visualization** |
+| **Phase 3: Interactive Dashboard Build** | • Designed a 4-card executive KPI header with YoY growth indicators.<br>• Integrated channel Slicers (In-store, Online, Outlet) connected dynamically across all PivotTables.<br>• Formatted US map visuals, bar charts, donut charts, and trend lines using an Adidas navy blue visual 
 
-
-## 8. Dashboard and Analysis Files
-
-The completed analysis, dashboard, and supporting files are structured in this repository as follows:
-
-- `adidas_sales_analysis.xlsx`: Interactive Excel workbook containing raw data, Power Query transformations, PivotTable engine, and final dashboard.
-- `assets/`: Screenshots of the master dashboard and individual channel slicer views (In-store, Online, Outlet).
-
-## 9. Dashboard, Key Findings and Business Interpretation
+## 8. Dashboard, Key Findings and Business Interpretation
 
 The interactive dashboard uses an Adidas-branded navy blue visual theme with high-contrast card containers, clear chart labels, and channel slicers.
 
@@ -147,7 +139,7 @@ The interactive dashboard uses an Adidas-branded navy blue visual theme with hig
 
 Over the 2-year period (2020–2021), the business generated $899.9M in total sales across 9,648 transaction records.
 
-![Adidas Master Sales Dashboard](assets/adidas_dashboard_overall.png)
+[Adidas Master Sales Dashboard](assets/adidas_dashboard_overall.png)
 
 | Performance Metric | 2020 (PY) | 2021 (CY) | Total / Overall | YoY Growth (%) |
 |---|---:|---:|---:|---:|
@@ -229,7 +221,7 @@ Monthly sales distribution shows consistent year-over-year expansion throughout 
 A notable data observation occurs in **June 2020**, where Outlet channel sales recorded $0 due to physical retail store closures during that period of COVID-19. Understanding this baseline gap is essential when evaluating 2021 Outlet growth rates to avoid misinterpreting operational recovery as organic expansion.
 
 
-## 10. Business Recommendations
+## 9. Business Recommendations
 
 Based on the dashboard findings, executive leadership should consider the following actions:
 
