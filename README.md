@@ -139,7 +139,7 @@ The interactive dashboard uses an Adidas-branded navy blue visual theme with hig
 
 Over the 2-year period (2020–2021), the business generated $899.9M in total sales across 9,648 transaction records.
 
-[Adidas_overall_view](assets/adidas_dashboard_overall.png)
+[Adidas_overall_view](/adidas_dashboard_overall.png)
 
 | Performance Metric | 2020 (PY) | 2021 (CY) | Total / Overall | YoY Growth (%) |
 |---|---:|---:|---:|---:|
