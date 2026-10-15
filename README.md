@@ -23,7 +23,7 @@ Without this visibility, strong top-line growth can hide important details. A bu
 This project uses two years of Adidas sales data (2020 and 2021) to bring all of this together in one interactive dashboard, making it easier to see where the business is strong, where it is exposed, and where attention or investment may be needed.
 
 ## 3. Dataset Description
-
+**Excel Workbook:** [`adidas_sales_analysis.xlsx`](./Adidas_US_Sales_Datasets.xlsx)
 The dataset was sourced from Kaggle and contains Adidas sales transactions across US regions, states, cities, retailers, products, and sales methods for 2020 and 2021.
 
 ### Dataset Summary
