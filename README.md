@@ -6,6 +6,9 @@ An interactive Excel sales dashboard analyzing 2020–2021 Adidas US sales acros
 [![Domain](https://img.shields.io/badge/Domain-Retail_%26_Sales_Analytics-darkblue?style=flat-square)](https://github.com)
 [![Dataset](https://img.shields.io/badge/Data_Size-9%2C648_Records-orange?style=flat-square)](https://www.kaggle.com)
 
+
+![Adidas_overall_view](/adidas_dashboard_overall.png)
+
 ## 1. Project Overview
 
 This project analyses Adidas sales performance across the United States using Microsoft Excel.
