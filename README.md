@@ -79,25 +79,14 @@ Channel Performance & Profitability
 
 ## 5. Tools and Commands
 
-Microsoft Excel:
-Used for data cleaning, transformation, feature engineering, analysis, and interactive dashboard development.
+**Microsoft Excel**
 
-- Power Query:
-  - Data ingestion and automated data transformation.
-  - Removed blank rows, verified uniqueness, handled errors, and set proper data types.
+Used for data preparation, analysis, and interactive dashboard development.
 
-- Data Preparation & Formulas:
-  - Checked raw data integrity and created calculated fields on the analysis sheet.
-  - Created a check column (`Profit Margin Check = Operating Profit / Total Sales`) to audit the raw data margin field.
-  - Calculated aggregate profit margin percentage using `SUM(Operating Profit) / SUM(Total Sales)` to avoid unweighted averages.
-
-- PivotTables & Aggregations:
-  - Built  PivotTables for regional sales, retailer unit volumes, top product sales shares, monthly YoY (Year-on-Year) trends, and channel KPIs.
-
-- Interactive Dashboard Development:
-  - Designed a 4-card KPI header (Total Sales, Total Profit, Units Sold, Operating Margin) with YoY growth comparisons.
-  - Integrated Slicers for sales channels (In-store, Online, Outlet) connected across all PivotTables.
-  - Formatted map visuals, bar charts, donut charts, and year-on-year charts using an Adidas-branded blue visual theme.
+* Power Query: Data cleaning, transformation, and type correction.
+* Formulas: Calculated fields and profit margin validation.
+* PivotTables: Analysis of regional sales, retailer volumes, product sales shares, monthly YoY trends, and sales channel performance.
+* Dashboard: KPI cards, YoY comparisons, connected sales channel slicers, and interactive visualisations.
 
 ## 6. Data Cleaning and Preparation
 
