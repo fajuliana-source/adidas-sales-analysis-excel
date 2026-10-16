@@ -36,22 +36,6 @@ The dataset was sourced from Kaggle and contains Adidas sales transactions acros
 - Sales Methods: In-store, Online, Outlet
 - Key retailers include Foot Locker, West Gear, Sports Direct, Kohl’s, Walmart, and Amazon
 
-| Field | Description |
-|---|---|
-| Retailer | Name of the retail partner |
-| Retailer ID | Unique retailer identifier |
-| Invoice Date | Date of the sales transaction |
-| Region | US region (Midwest, Northeast, South, Southeast, West) |
-| State | US state |
-| City | City of sale |
-| Product | Product category (e.g. Men’s Street Footwear, Men’s Athletic Footwear, Women’s Apparel) |
-| Price per Unit | Selling price per unit |
-| Units Sold | Number of units sold |
-| Total Sales | Revenue from the transaction |
-| Operating Profit | Profit from the transaction |
-| Operating Margin | Profit margin percentage on the transaction |
-| Sales Method | In-store, Online, or Outlet |
-
 
 ## 4. Business Questions
 
